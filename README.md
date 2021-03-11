@@ -1,3 +1,3 @@
-# Boumendil2020_BRD4paper
+# BRD4 in CLS paper - Boumendil et al., 2020
 
-MeasuringNucleiFociArea.ijm (ImageJ)
+  * MeasuringNucleiFociArea.ijm (ImageJ)
