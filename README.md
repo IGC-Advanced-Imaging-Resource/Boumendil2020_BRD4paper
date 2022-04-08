@@ -1,3 +1,7 @@
-# BRD4 in CLS paper - Boumendil et al., 2020
+# BRD4 in CLS paper
 
-  * MeasuringNucleiFociArea.ijm (ImageJ)
+ImageJ Macro used in Olley et al., 2019 paper - Cornelia de Lange syndrome-associated mutations cause a DNA damage signalling and repair defect
+
+[Nat Comm Link](https://www.nature.com/articles/s41467-021-23500-6)
+
+* MeasuringNucleiFociArea.ijm (ImageJ)
